@@ -114,5 +114,5 @@ Select Multibranch pipeline and click OK<br/><br/>
 
 Select Add Sources->GitHub<br/>
 Select and set Credentials and set your repo name. <br/>
-In my case: ```https://github.com/Amsal1/devops_ci_cd/```<br/>
+In my case: ```https://github.com/mdimran360/DevOps-CI-CD/```<br/> 
 Click Save and it will done rest😄<br/>
